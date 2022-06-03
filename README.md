@@ -66,9 +66,10 @@ Deleting database
 ![img_21.png](screenshots/img_21.png)
 ![img_22.png](screenshots/img_22.png)
 
-Chad only does not have access to table 'public' in database 'jdbc_test'
+Chad does not have access to table 'public' in database 'jdbc_test'
 
 ![img_23.png](screenshots/img_23.png)
+
 And Chad does not have access to database 'jdbc_test2'
 
 ![img_24.png](screenshots/img_24.png)
